@@ -203,4 +203,4 @@ This repository serves as the official landing page for eViacam. The software is
 **Get the most recent version of eViacam today!**
 
 ---
-**Last updated:** 2026-11-10 22:10:55 UTC
+**Last updated:** 2026-11-11 02:35:45 UTC
